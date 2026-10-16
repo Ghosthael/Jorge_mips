@@ -3,7 +3,7 @@
 **EEA-25 – Sistemas Digitais Programáveis** · ITA / IEE
 Prof. Dr. Harlei Miguel Arruda Leite
 
-**Autores:** [Seu nome] · Luiz Satoshi
+**Autores:** Ricardo Cardoso · Luiz Satoshi
 
 ---
 
